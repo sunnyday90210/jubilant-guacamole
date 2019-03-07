@@ -5,3 +5,7 @@ body,
   background-color: #eee;
   padding: 1em;
 }
+
+.pointer {
+  cursor: pointer;
+}
